@@ -8,6 +8,5 @@
 checkList:
   name: Playstation Os
   type: console
-  version: 7.0
 uaList:
   - "Mozilla/5.0 (PlayStation 4 7.00) AppleWebKit/605.1.15 (KHTML, like Gecko)"
