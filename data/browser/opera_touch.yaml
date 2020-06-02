@@ -1,0 +1,12 @@
+########################################################################
+# @author Serhii Nekhaienko <serhii.nekhaienko@gmail.com>
+# @license MIT
+# @copyright Serhii Nekhaienko &copy 2020
+# @version 1.0.0
+# @project endorphin-studio/browser-detector-tests-data
+########################################################################
+checkList:
+    name: Opera Touch
+    type: mobile
+uaList:
+    - "Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) OPT/65 Mobile/15G77"

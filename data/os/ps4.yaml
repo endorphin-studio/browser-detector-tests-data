@@ -1,0 +1,13 @@
+########################################################################
+# @author Serhii Nekhaienko <serhii.nekhaienko@gmail.com>
+# @license MIT
+# @copyright Serhii Nekhaienko &copy 2020
+# @version 1.0.0
+# @project endorphin-studio/browser-detector-tests-data
+########################################################################
+checkList:
+  name: Playstation Os
+  type: console
+  version: 7.0
+uaList:
+  - "Mozilla/5.0 (PlayStation 4 7.00) AppleWebKit/605.1.15 (KHTML, like Gecko)"

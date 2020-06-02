@@ -1,0 +1,12 @@
+########################################################################
+# @author Serhii Nekhaienko <serhii.nekhaienko@gmail.com>
+# @license MIT
+# @copyright Serhii Nekhaienko &copy 2019
+# @version 1.0.0
+# @project endorphin-studio/browser-detector-tests-data
+########################################################################
+checkList:
+    type: Bot/Crawler
+    name: TwitterBot
+uaList:
+    - "Twitterbot/1.0"

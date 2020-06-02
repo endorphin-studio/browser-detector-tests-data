@@ -1,0 +1,12 @@
+########################################################################
+# @author Serhii Nekhaienko <serhii.nekhaienko@gmail.com>
+# @license MIT
+# @copyright Serhii Nekhaienko &copy 2020
+# @version 1.0.0
+# @project endorphin-studio/browser-detector-tests-data
+########################################################################
+checkList:
+    name: AOPEN
+    type: tablet
+uaList:
+    - "Dalvik/1.6.0 (Linux; U; Android 4.4.4; WT19M-FI Build/KTU84Q)"

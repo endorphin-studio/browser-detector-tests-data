@@ -1,0 +1,13 @@
+########################################################################
+# @author Serhii Nekhaienko <serhii.nekhaienko@gmail.com>
+# @license MIT
+# @copyright Serhii Nekhaienko &copy 2020
+# @version 1.0.0
+# @project endorphin-studio/browser-detector-tests-data
+########################################################################
+checkList:
+    type: Bot/Crawler
+    owner: 123metaspider.com
+    name: 123metaspider Crawler
+uaList:
+    - "123metaspider-Bot (Version: 1.04, powered by www.123metaspider.com)"

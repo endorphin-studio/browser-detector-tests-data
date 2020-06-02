@@ -1,0 +1,13 @@
+########################################################################
+# @author Serhii Nekhaienko <serhii.nekhaienko@gmail.com>
+# @license MIT
+# @copyright Serhii Nekhaienko &copy 2020
+# @version 1.0.0
+# @project endorphin-studio/browser-detector-tests-data
+########################################################################
+checkList:
+    type: Bot/Crawler
+    owner: 007AC9.net
+    name: 007ac9 Crawler
+uaList:
+    - "Mozilla/5.0 (compatible; 007ac9 Crawler; http://crawler.007ac9.net/)"

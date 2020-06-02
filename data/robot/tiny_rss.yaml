@@ -1,0 +1,14 @@
+########################################################################
+# @author Serhii Nekhaienko <serhii.nekhaienko@gmail.com>
+# @license MIT
+# @copyright Serhii Nekhaienko &copy 2020
+# @version 1.0.0
+# @project endorphin-studio/browser-detector-tests-data
+########################################################################
+checkList:
+    name: Tiny RSS
+    type: RSS Reader
+    owner: Andrew Dolgov
+    homepage: http://tt-rss.org
+uaList:
+    - "Tiny Tiny RSS/1.10 (http://tt-rss.org/)"

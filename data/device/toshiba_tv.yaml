@@ -1,0 +1,14 @@
+########################################################################
+# @author Serhii Nekhaienko <serhii.nekhaienko@gmail.com>
+# @license MIT
+# @copyright Serhii Nekhaienko &copy 2020
+# @version 1.0.0
+# @project endorphin-studio/browser-detector-tests-data
+########################################################################
+checkList:
+    name: Toshiba Smart TV
+    type: tv
+uaList:
+    - "Mozilla/5.0 (Linux; U; Linux; ja-jp; DTV; TSBNetTV/T3E01CD.0203.DDD) AppleWebKit/536(KHTML, like Gecko) NX/3.0 (DTV; HTML; R1.0;) DTVNetBrowser/2.2 "
+    - "(000039;T3E01CD;0203;DDD) InettvBrowser/2.2 "
+    - "(000039;T3E01CD;0203;DDD)"

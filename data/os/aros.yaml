@@ -1,0 +1,11 @@
+########################################################################
+# @author Serhii Nekhaienko <serhii.nekhaienko@gmail.com>
+# @license MIT
+# @copyright Serhii Nekhaienko &copy 2020
+# @version 1.0.0
+# @project endorphin-studio/browser-detector-tests-data
+########################################################################
+checkList:
+    name: AROS
+uaList:
+    - "Mozilla/4.8 [en] (Windows NT 6.0; U) Paros/3.2.13"

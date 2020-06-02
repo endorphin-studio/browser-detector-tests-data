@@ -1,0 +1,16 @@
+{
+  "name": "endorphin-studio/browser-detector-tests-data",
+  "description": "Tests Data for endorphin-studio/browser-detector",
+  "minimum-stability": "stable",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Serhii Nekhaienko",
+      "email": "serhii.nekhaienko@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.6"
+  }
+}

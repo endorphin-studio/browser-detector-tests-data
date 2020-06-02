@@ -1,0 +1,11 @@
+########################################################################
+# @author Serhii Nekhaienko <serhii.nekhaienko@gmail.com>
+# @license MIT
+# @copyright Serhii Nekhaienko &copy 2020
+# @version 1.0.0
+# @project endorphin-studio/browser-detector-tests-data
+########################################################################
+checkList:
+    name: BlackBerry OS
+uaList:
+    - "BlackBerry9100/6.6.0.248 Profile/MIDP-2.0 Configuration/CLDC-1.1/UCWEB8.1.0.104/159/999"

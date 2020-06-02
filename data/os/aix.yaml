@@ -1,0 +1,11 @@
+########################################################################
+# @author Serhii Nekhaienko <serhii.nekhaienko@gmail.com>
+# @license MIT
+# @copyright Serhii Nekhaienko &copy 2020
+# @version 1.0.0
+# @project endorphin-studio/browser-detector-tests-data
+########################################################################
+checkList:
+    name: Linux
+uaList:
+    - "Mozilla/1.1I (X11; I; UNIX_SV 4.2MP R4000)"

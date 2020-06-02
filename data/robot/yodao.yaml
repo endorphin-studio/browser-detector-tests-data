@@ -1,0 +1,13 @@
+########################################################################
+# @author Serhii Nekhaienko <serhii.nekhaienko@gmail.com>
+# @license MIT
+# @copyright Serhii Nekhaienko &copy 2020
+# @version 1.0.0
+# @project endorphin-studio/browser-detector-tests-data
+########################################################################
+checkList:
+    type: Search Engine
+    name: Yodao
+uaList:
+    - "Mozilla/5.0 (compatible;YodaoBot/1.0;http://www.youdao.com/help/webmaster/spider/;)"
+    - "Mozilla/5.0 (compatible;YodaoBot-Image/1.0;http://www.youdao.com/help/webmaster/spider/;)"
